@@ -11,7 +11,7 @@ OpenGL을 이용하여 FPS(First-Person Shooter) 게임을 구현하였다.
 
 ### 1) 총기 구현
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e975e76a-cf5c-4404-816c-b88719d65c34/f5c27d08-bb4a-4e97-b14d-6200a353d49b/image.png)
+![Image](https://github.com/user-attachments/assets/7d1aaccd-03a3-4dfd-95e2-92c242cc0dec)
 
 총구, 몸통, 개머리판, 탄창, 손잡이로 이루어진 총기를 구현하였다. 총기를 구성하기 위해 `cube`, `torus`, `cylinder`를 사용하였다.
 
